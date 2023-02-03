@@ -1,0 +1,16 @@
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\odev-algoritma-sorulari\soru-iki\bin\Debug\net5.0\soru-iki.exe
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\odev-algoritma-sorulari\soru-iki\bin\Debug\net5.0\soru-iki.deps.json
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\odev-algoritma-sorulari\soru-iki\bin\Debug\net5.0\soru-iki.runtimeconfig.json
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\odev-algoritma-sorulari\soru-iki\bin\Debug\net5.0\soru-iki.runtimeconfig.dev.json
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\odev-algoritma-sorulari\soru-iki\bin\Debug\net5.0\soru-iki.dll
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\odev-algoritma-sorulari\soru-iki\bin\Debug\net5.0\soru-iki.pdb
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\odev-algoritma-sorulari\soru-iki\obj\Debug\net5.0\soru-iki.csproj.AssemblyReference.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\odev-algoritma-sorulari\soru-iki\obj\Debug\net5.0\soru-iki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\odev-algoritma-sorulari\soru-iki\obj\Debug\net5.0\soru-iki.AssemblyInfoInputs.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\odev-algoritma-sorulari\soru-iki\obj\Debug\net5.0\soru-iki.AssemblyInfo.cs
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\odev-algoritma-sorulari\soru-iki\obj\Debug\net5.0\soru-iki.csproj.CoreCompileInputs.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\odev-algoritma-sorulari\soru-iki\obj\Debug\net5.0\soru-iki.dll
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\odev-algoritma-sorulari\soru-iki\obj\Debug\net5.0\refint\soru-iki.dll
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\odev-algoritma-sorulari\soru-iki\obj\Debug\net5.0\soru-iki.pdb
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\odev-algoritma-sorulari\soru-iki\obj\Debug\net5.0\soru-iki.genruntimeconfig.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\odev-algoritma-sorulari\soru-iki\obj\Debug\net5.0\ref\soru-iki.dll

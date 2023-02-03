@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6/WdjjEEQjt9khxpY2iSYnjk4vnkEYegcNWuYGR2UcVStTR4U/dIOf7i3LUq+wXqEt4cQCmqr6sgFlJ8Oa58LA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tekta\\OneDrive\\Masaüstü\\Pratikler\\odev-algoritma-sorulari\\soru-dort\\soru-dort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tekta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
